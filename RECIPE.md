@@ -15,7 +15,7 @@ Serve pasta topped with the remaining Parmigiano-Reggiano cheese.
 Aglio e Olio is now ready!!
 Now, serve your Aglio e Olio to Friends.
 
-[INTRODUCTION](INGREDIENTS.md)
+[INGREDIENTS](INGREDIENTS.md)
 
 [INTRODUCTION](README.md)
 
